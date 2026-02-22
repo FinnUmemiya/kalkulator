@@ -15,7 +15,7 @@ def bagi(num1, num2):
 
 
 
-print("##### Kalkulator Sederhana #####")
+print("###### Kalkulator Sederhana ######")
 print("Pilih Operasi Berdasarkan Nomor")
 print("1. Penjumlahan (+)")
 print("2. Pengurangan (-)")
